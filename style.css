@@ -10,7 +10,7 @@
   height: 100vh;
   width: 100vw;
   /* background: linear-gradient(to top left, #16cdc7, #4c8acd); */
-  background: linear-gradient(to top left, #212121, #2121);
+  background: linear-gradient(to top left, #090909, rgba(15, 8, 15, 0.067));
 }
 
 .inner-container {
